@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 	I think it creates an empty memory in space, much like creating a new object in OOP languages but not assigning anything to it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area takes files chosen from the working directory and puts them on a "ready list" to go into the repository. I think it's kind of like quality control in case you go to put the wrong file in it's not in there yet.
+	STEELERS
