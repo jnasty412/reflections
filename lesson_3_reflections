@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than a local one?
+
+I guess if you were working on a collaborative project, and wanted your team to see changes to the project that were important so there's
+no stepping on toes, or coding the same thing twice/thrice etc.
