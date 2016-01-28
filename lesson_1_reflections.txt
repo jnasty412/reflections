@@ -19,4 +19,4 @@ How might using version control make you more confident to make changes that cou
 	If you know that you can roll back to a previous commit, you won't have to fret about not remembering what exactly you changed.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-	I would like to use it for HTML/CSS/JS/JQUERY/PHP files and programs I come up with for a site I am building and any future projects.
+	I would like to use it for HTML/CSS/JS/JQUERY/PHP files and programs I come up with for a site I am building and any future projects. STEELERS
