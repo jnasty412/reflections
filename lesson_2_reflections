@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	I think it creates an empty memory in space, much like creating a new object in OOP languages but not assigning anything to it.
