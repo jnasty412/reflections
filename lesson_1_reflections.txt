@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+If you notice that a certain function isn't working in the new version, you can compare the two and see if maybe there was a naming issue or syntactical error. Either way, you can see changes you didn't know had been made.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
+
+I guess you could see where you started a project, say as a beginner, and where you finished it, say as an intermediate-advanced programmer and note the changes in your formatting/programming techniques.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	Obviously the first thing that comes to mind is if you forget to save, and you're program freezes and closes before you could save. But as a pro you can know when to make a commit after a serious change was made and you need to create one.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Well letting one save multiple files in one commit is nice if you already know ahead of time which files are inter-related. Google Docs, and others that treat them seperately probably don't want to have the extra storage associated with multiple file commits.
+
+How can you use the commands git log and git diff to view the history of files?
+	git log can show you when commits were made with a message and --stat will show you adds/deletes. git diff will show you the difference in two commits.
+
+How might using version control make you more confident to make changes that could break something?
+	If you know that you can roll back to a previous commit, you won't have to fret about not remembering what exactly you changed.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	I would like to use it for HTML/CSS/JS/JQUERY/PHP files and programs I come up with for a site I am building and any future projects.
